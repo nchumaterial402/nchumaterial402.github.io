@@ -147,5 +147,20 @@
         "img":["Seeback.jpg"],
         "name":"Seeback係數量測儀",
         "description":"Description..."
-    }
+    },
+    {
+        "img":["應力腐蝕機.jpg"],
+        "name":"應力腐蝕機",
+        "description":"Description..."
+    },
+    {
+        "img":["電鍍設備.jpg"],
+        "name":"電鍍設備",
+        "description":"Description..."
+    },
+    {
+        "img":["氣體偵測儀.jpg"],
+        "name":"氣體偵測儀",
+        "description":"Description..."
+    }    
 ]
